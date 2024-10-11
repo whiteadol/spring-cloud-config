@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000123
-  secret: 20230809JWTSECRETKEY@&^#$#$&^#@$%@#!*%^(+DEV
+  secret: 20230809JWTSECRETKEY@&^#$#$&^#@$%@#!*%^(+DEV_2
   
 gateway:
   ip: 127.0.0.1
